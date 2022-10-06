@@ -23,3 +23,8 @@ loopOverTheArray(arr)
 // .reduce() - function that takes an array of amounts 
 //             and returns the total amount.
 
+let myObj  = [{
+    'a': 1200,
+    'b': 1400
+}]
+console.log(myObj[0].a)
