@@ -1,0 +1,19 @@
+{
+  "name": "higher-order-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eamoses/Higher-Order-From-Scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eamoses/Higher-Order-From-Scratch/issues"
+  },
+  "homepage": "https://github.com/eamoses/Higher-Order-From-Scratch#readme"
+}
